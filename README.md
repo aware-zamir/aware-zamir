@@ -1,8 +1,5 @@
 <h1 align="center">Hi, I'm Fin</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=finn-dev&label=Profile%20views&color=0e75b6&style=flat" alt="finn-dev" />
-</p>
 
 ---
 
